@@ -25,8 +25,12 @@ To get a local copy up and running, follow these simple steps.
 
 
 
-  
+![Weather App Screenshot](Screenshots/Screenshot1.png)
 
 
 
-![Weather App Screenshot](src/assets/Screenshot(214).png)
+![Weather App Screenshot](Screenshots/Screenshot2.png)
+
+
+
+![Weather App Screenshot](Screenshots/Screenshot3.png)
